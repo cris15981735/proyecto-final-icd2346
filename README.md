@@ -1,12 +1,14 @@
-# ¿Cuánta vivienda alcanza tu sueldo?
+# ¿Para qué vivienda te alcanza el sueldo?
 
 **Asequibilidad hipotecaria de las personas ocupadas en Chile con los microdatos de la ESI 2025**
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cris15981735/proyecto-final-icd2346/blob/main/ProyectoFinal_Antezana_Calderon.ipynb)
 
-Proyecto final de Paradigmas de Programación (ICD 2346), Ingeniería Civil en Ciencia de Datos, Pontificia Universidad Católica de Valparaíso, segundo semestre de 2026.
+Proyecto final de Paradigmas de Programación (ICD 2346), Ingeniería Civil en Ciencia de Datos, Pontificia Universidad Católica de Valparaíso, segundo semestre de 2026. También se presenta en la Expo DataHorizon de la carrera (noviembre de 2026).
 
 **Autores:** Cristian Antezana e Ignacio Calderón.
+
+**Presentación:** en Paradigmas de Programación lo presentan y defienden los dos autores; en la Expo DataHorizon lo expone Cristian Antezana.
 
 ## La pregunta
 
@@ -40,6 +42,10 @@ El cálculo central se resuelve tres veces y se comprueba que el resultado sea e
 
 El procesamiento reproduce las cifras oficiales del INE: ingreso medio de \$962.944,70 e ingreso mediano de \$680.000.
 
+## Póster
+
+El póster del proyecto para la Expo DataHorizon se agregará a este repositorio.
+
 ## Cómo ejecutarlo
 
 1. Abre el notebook en Google Colab con el botón de arriba.
@@ -63,4 +69,4 @@ El análisis usa solo el ingreso del trabajo principal y las reglas de un banco,
 
 ## Uso de inteligencia artificial
 
-Declarado en la sección 11.6 del notebook.
+Declarado en la sección 11.6 del notebook. El README y la publicación en GitHub también se hicieron con Claude.
