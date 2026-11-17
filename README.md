@@ -44,7 +44,9 @@ El procesamiento reproduce las cifras oficiales del INE: ingreso medio de \$962.
 
 ## Póster
 
-El póster del proyecto para la Expo DataHorizon se agregará a este repositorio.
+Póster con que se presenta el proyecto en la Expo DataHorizon. Haz clic en la imagen para abrirlo en PDF.
+
+[![Póster: ¿Para qué vivienda te alcanza el sueldo? Un análisis con la ESI 2025 del INE](poster/poster_pucv.png)](poster/poster_pucv.pdf)
 
 ## Cómo ejecutarlo
 
@@ -69,4 +71,4 @@ El análisis usa solo el ingreso del trabajo principal y las reglas de un banco,
 
 ## Uso de inteligencia artificial
 
-Declarado en la sección 11.6 del notebook. El README y la publicación en GitHub también se hicieron con Claude.
+Se usó inteligencia artificial como herramienta de apoyo. El detalle está en la sección 11.6 del notebook.
