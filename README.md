@@ -48,6 +48,12 @@ Póster con que se presenta el proyecto en la Expo DataHorizon. Haz clic en la i
 
 [![Póster: ¿Para qué vivienda te alcanza el sueldo? Un análisis con la ESI 2025 del INE](poster/poster_pucv.png)](poster/poster_pucv.pdf)
 
+## Presentación
+
+Presentación con que se expone el proyecto en la Expo DataHorizon. Haz clic en la imagen para verla completa en PDF.
+
+[![Presentación: ¿Para qué vivienda te alcanza el sueldo? Asequibilidad hipotecaria de los ocupados en Chile con la ESI 2025 del INE](PPT/PPT_Expo.png)](PPT/PPT_Expo.pdf)
+
 ## Cómo ejecutarlo
 
 1. Abre el notebook en Google Colab con el botón de arriba.
