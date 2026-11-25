@@ -6,9 +6,7 @@
 
 Proyecto final de Paradigmas de Programación (ICD 2346), Ingeniería Civil en Ciencia de Datos, Pontificia Universidad Católica de Valparaíso, segundo semestre de 2026. También se presenta en la Expo DataHorizon de la carrera (noviembre de 2026).
 
-**Autores:** Cristian Antezana e Ignacio Calderón.
-
-**Presentación:** en Paradigmas de Programación lo presentan y defienden los dos autores; en la Expo DataHorizon lo expone Cristian Antezana.
+**Autor:** Cristian Antezana.
 
 ## La pregunta
 
